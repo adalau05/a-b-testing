@@ -1,4 +1,4 @@
-A/B Test: Free Trial Length (7-day vs 14-day)
+# A/B Test: Free Trial Length (7-day vs 14-day)
 
 Primary question: Does giving users more time to experience the product increase paid conversion and lifetime value?
 
